@@ -1,2 +1,2 @@
 FROM alpine
-RUN echo "automated build"
+RUN echo "automated build version 1"
